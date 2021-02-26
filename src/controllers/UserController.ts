@@ -30,4 +30,5 @@ class UserController {
     }
 }
 
+
 export { UserController };
