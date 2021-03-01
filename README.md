@@ -22,6 +22,17 @@ A aplicação foi desenvolvida durante a Trilha de NodeJS ministrada pela profes
 <code><img width="30px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"></code>
 <code><img width="30px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png"></code>
 <code><img width="30px" src="https://avatars.githubusercontent.com/u/20165699?s=400&v=4"></code>
+<code><img width="30px" src="https://cdn.worldvectorlogo.com/logos/handlebars-1.svg"></code>
+<code><img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png"></code>
+<code><img width="30px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+
+
+
+
+
+
+
+
 
 ### 🛠 Ferramentas
 <code><img width="30px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/insomnia-icon.png"></code>
